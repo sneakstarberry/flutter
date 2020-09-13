@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "208587532057",
+    "firebase_url": "https://advance-stratum-265108.firebaseio.com",
+    "project_id": "advance-stratum-265108",
+    "storage_bucket": "advance-stratum-265108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208587532057:android:ce26012e744da398d7c788",
+        "android_client_info": {
+          "package_name": "com.example.flutter_blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208587532057-bn0fdj9ocpovipmo4ivf7k7sembthbq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8mJzk0Raga7GNcjQBES9yE2p_5dlFcy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208587532057-bn0fdj9ocpovipmo4ivf7k7sembthbq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
